@@ -1,0 +1,6 @@
+[submodule "mgiza"]
+	path = mgiza
+	url = https://github.com/moses-smt/mgiza
+[submodule "mosesdecoder"]
+	path = mosesdecoder
+	url = https://github.com/raphaelmerx/mosesdecoder/

@@ -1,0 +1,8 @@
+LANG1: "en"
+LANG2: "tpi"
+
+TRAIN_PREFIXES:
+    - "bible"
+    - "ted"
+
+THREADS: 2
